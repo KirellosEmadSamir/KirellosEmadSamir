@@ -3,7 +3,7 @@
   <img src="https://github.com/KirellosEmadSamir/KirellosEmadSamir/blob/main/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github" />
   <br />
   <br />
-  <img height="50" alt="Kirellos Emad Samir" src="https://github.com/KirellosEmadSamir/KirellosEmadSamir/blob/main/images/personal_note.png" />
+  <img height="200" alt="Kirellos Emad Samir" src="https://github.com/KirellosEmadSamir/KirellosEmadSamir/blob/main/images/personal_note.png" />
   <br />
   <br />
 </div>
