@@ -23,7 +23,12 @@
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=KirellosEmadSamir" />
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
+## 📈 My Contributions <br>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=KirellosEmadSamir&theme=onedark)
+
+## 🛠️ languages and tools
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code> <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code> <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code> <code><img height="50" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code> <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/2367px-Notepad%2B%2B_Logo.svg.png"></code> <code><img height="50" src="https://www.devopsschool.com/trainer/assets/images/makefiles-logo.png"></code> <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> </code>
 <!-- Footer -->
 
 <div align="center">
