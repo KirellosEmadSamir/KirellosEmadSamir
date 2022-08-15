@@ -3,7 +3,7 @@
   <img src="https://github.com/KirellosEmadSamir/KirellosEmadSamir/blob/main/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github" />
   <br />
   <br />
-  <img height="200" alt="Kirellos Emad Samir" src="https://github.com/KirellosEmadSamir/KirellosEmadSamir/blob/main/images/personal_note.png" />
+  <img height="200" width="100%"alt="Kirellos Emad Samir" src="https://github.com/KirellosEmadSamir/KirellosEmadSamir/blob/main/images/personal_note.png" />
   <br />
   <br />
 </div>
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="120" alt="Thanks for visiting " width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
 ![Visitor Count](https://profile-counter.glitch.me/KirellosEmadSamir/count.svg)
